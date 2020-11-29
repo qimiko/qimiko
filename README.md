@@ -1,6 +1,20 @@
+# hi!
+*you might know me as zmx*
+
+## cheese
+
 ![cheese](/cheese.jpg)
 
 picture from [wikimedia](https://commons.wikimedia.org/wiki/File:Cheese_maker1212.jpg)
+
+## more
+
+* sorta know language: javascript, python, php, rust, c++
+* pronoun: she/her
+* is: stupid
+* plays geometry dash
+
+**i really gotta make this look nicer**
 
 <!--
 **zmxhawrhbg/zmxhawrhbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
