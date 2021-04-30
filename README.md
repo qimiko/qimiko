@@ -9,9 +9,6 @@
 
 <img src="https://github.com/kyurime/kyurime/blob/master/cheese.jpg?raw=true" width=50%>
 
-
-![cheese](/cheese.jpg)
-
 picture from [wikimedia](https://commons.wikimedia.org/wiki/File:Cheese_maker1212.jpg)
 
 <!--
