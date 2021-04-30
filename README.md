@@ -2,7 +2,7 @@
 *you might know me as zmx*
 
 ![my stats](https://github-readme-stats.vercel.app/api?username=kyurime&theme=omni&show_icons=true&disable_animations=true&custom_title=my%20stats%20%3A%29&hide_border=true)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyurime&theme=omni&custom_title=languages&hide_border=true&langs_count=3)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyurime&theme=omni&custom_title=languages&hide_border=true&layout=compact&hide=Objective-C%2B%2B,Objective-C,Makefile,CMake)
 
 
 ## cheese
