@@ -24,4 +24,4 @@ you can find some of my social links at [my site](https://xyze.dev)
 
 ---
 
-<img src="catlamp.png" width=40%>
+<img alt="catlamp" src="catlamp.png" width=40%>
